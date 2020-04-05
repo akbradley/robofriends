@@ -1,12 +1,8 @@
 import React, { Component } from 'react';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
-<<<<<<< HEAD
-import Scroll from '../components/Scroll';
-=======
 import Scroll from '../components/Scroll'
 import ErrorBoundry from '../components/ErrorBoundry'
->>>>>>> 951d08394deea120cd1dae5e6f7de003d04a9c3e
 import './App.css';
 
 class App extends Component {
